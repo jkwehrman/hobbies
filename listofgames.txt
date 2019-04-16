@@ -15,6 +15,7 @@ Boggle
 Bowling for Zombies
 Bring Your Own Book
 Bunco
+Buck Euchre
 Camel Cup
 Carcassonne
 Cards Against Humanities
